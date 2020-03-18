@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LauncherReal
+comment0.text=\r\n\ ask\ user\ for\ the\ username\ and\ the\ mode.\r\n\r\n\ @author\ Hao\ Chen\r\n\ @version\ 7/24/2019\r\n
+comment1.params=
+comment1.target=LauncherReal()
+comment1.text=\r\n\ show\ a\ window\ with\ buttons\ on\ it\ to\ choose\ the\ mode\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ arrording\ to\ the\ action\ of\ the\ user,\ set\ variable\ to\ different\ values.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ ask\ the\ user\ for\ name\ and\ run\ the\ whole\ project.\r\n
+numComments=4

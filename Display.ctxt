@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Display
+comment0.text=\r\n\ create\ a\ JFrame\ object.\r\n\ \r\n\ @author\ Hao\ Chen\r\n\ @version\ 7/24/2019\r\n
+comment1.params=title\ width\ height
+comment1.target=Display(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ initialize\ the\ window.\r\n\ @param\ title\ the\ title\ of\ the\ window\r\n\ @param\ width\ the\ width\ of\ the\ window\r\n\ @param\ height\ the\ height\ of\ the\ indow\r\n
+comment2.params=
+comment2.target=java.awt.Canvas\ getCanvas()
+comment2.text=\r\n\ reuturn\ the\ canvas\ object\r\n\ @return\ canvas\ the\ canvas\ object\r\n
+comment3.params=
+comment3.target=javax.swing.JFrame\ getFrame()
+comment3.text=\r\n\ reuturn\ the\ JFrame\ object\r\n\ @return\ frame\ the\ JFrame\ object\r\n
+numComments=4

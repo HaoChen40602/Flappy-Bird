@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GameStateDouble
+comment0.text=\r\n\ the\ class\ for\ drawing\ things\ on\ the\ screen\ while\ the\ double\ game\ is\ going.\r\n\r\n\ @author\ Hao\ Chen\r\n\ @version\ 7/24/2019\r\n
+comment1.params=game\ a
+comment1.target=GameStateDouble(Game,\ long)
+comment1.text=\r\n\ initialize\ the\ variables.\r\n\ @param\ game\ the\ game\ object\ the\ player\ is\ in.\r\n
+comment2.params=
+comment2.target=int\ tick()
+comment2.text=\r\n\ change\ the\ position\ of\ the\ player\ and\ the\ pipes\r\n
+comment3.params=g\ i
+comment3.target=void\ render(java.awt.Graphics,\ int)
+comment3.text=\r\n\ draw\ the\ player,\ background\ and\ pipes.\r\n\ @param\ g\ the\ graphics\ object\ you\ wnat\ to\ draw\ on\r\n
+comment4.params=
+comment4.target=boolean\ inter()
+comment4.text=\r\n\ check\ if\ the\ player\ crash\ into\ the\ pipes\r\n\ @return\ boolean\ -if\ the\ player\ dies\r\n
+numComments=5

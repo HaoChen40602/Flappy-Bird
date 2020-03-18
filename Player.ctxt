@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ the\ class\ for\ creating\ the\ players\r\n\r\n\ @author\ Hao\ Chen\r\n\ @version\ 7/24/2019\r\n
+comment1.params=game\ x\ y\ width\ height
+comment1.target=Player(Game,\ float,\ float,\ int,\ int)
+comment1.text=\r\n\ initialize\ the\ variables.\r\n\ @param\ game\ the\ game\ object\ the\ player\ is\ in.\r\n\ @param\ x\ the\ x\ coordinate\ value\ of\ the\ player\r\n\ @param\ y\ the\ y\ coordinate\ value\ of\ the\ player\r\n\ @param\ width\ the\ width\ of\ the\ player\r\n\ @param\ height\ the\ height\ of\ the\ player\r\n
+comment2.params=
+comment2.target=void\ tick()
+comment2.text=\r\n\ change\ the\ position\ of\ the\ player\r\n
+comment3.params=g
+comment3.target=void\ render(java.awt.Graphics)
+comment3.text=\r\n\ draw\ the\ pipe\u0000\r\n\ @param\ g\ the\ graphics\ object\ you\ want\ to\ draw\ on.\r\n
+comment4.params=
+comment4.target=java.awt.Rectangle\ getMe()
+comment4.text=\r\n\ return\ the\ collision\ detection\ rectangle\r\n\ @return\ me\ the\ collision\ detection\ rectangle\r\n
+numComments=5

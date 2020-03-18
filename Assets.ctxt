@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Assets
+comment0.text=\r\n\ this\ is\ a\ class\ that\ load\ all\ of\ the\ image\ and\ can\ be\ used\ anywhere\ in\ the\ project\r\n\r\n\ @author\ Hao\ Chen\r\n\ @version\ 7/24/2019\r\n
+comment1.params=
+comment1.target=void\ init()
+comment1.text=\r\n\ load\ all\ of\ the\ images\ needed.\r\n
+numComments=2

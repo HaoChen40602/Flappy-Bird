@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FileIO
+comment0.text=\r\n\ this\ is\ a\ class\ that\ write\ in\ a\ file\ and\ return\ the\ records\r\n\r\n\ @author\ Hao\ Chen\r\n\ @version\ 7/24/2019\r\n
+comment1.params=name\ point
+comment1.target=java.util.ArrayList\ writeInFile(java.lang.String,\ int)
+comment1.text=\r\n\ save\ the\ username\ and\ point\ to\ the\ file\ and\ return\ a\ arrayList\ of\ the\ records\r\n\ @param\ name\ the\ username\r\n\ @param\ point\ the\ point\ the\ user\ gets\r\n\ @return\ stringList\ the\ arraylist\ the\ has\ the\ records\ in\ it.\r\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AudioPlayWave
+comment0.text=\r\n\ this\ class\ plays\ the\ music\r\n\r\n\ @author\ encodingForBetterWorld\u0000\r\n\ @version\ 7/24/2019\r\n
+comment1.params=wavFile
+comment1.target=AudioPlayWave(java.lang.String)
+comment1.text=\r\n\ initialize\ varizbles.\r\n\ @param\ wavFile\ the\ path\ to\ the\ music\ file\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ play\ the\ music\r\n
+numComments=3
